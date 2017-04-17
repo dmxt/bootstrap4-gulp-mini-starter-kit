@@ -6,9 +6,11 @@ Download: [click here](https://github.com/dmxt/bootstrap-4-alpha-compiled/releas
 
 Bootstrap v4 documentation: [click here](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
 
-Since the download is unavailable on the official [Bootstrap 4 website](http://v4-alpha.getbootstrap.com/getting-started/download/), I've made the compiled copy available on this repo. With prepared index and downloaded jquery file, you can start developing as soon as it is downloaded and extracted. It includes gulp with SCSS compiler, BrowserSync, error catcher and notifier, minifies \*.css files, etc.
+With prepared index and downloaded jquery file, you can start developing as soon as it is downloaded and extracted. All content is non-CDN, so there will be less file requests on site load. 
 
-If there's any issues or bugs related to this repo, plesae open an issue and I'll take a look.
+It includes gulp with SCSS compiler, BrowserSync, error catcher and notifier, minifies \*.css files, etc. It's optional and you do not need to use it, just delete /scss/ folder. However, if you want to use it, please refer to this [tutorial[(https://github.com/dmxt/bootstrap3-scss-gulp-starter-kit/blob/master/README.md#how-to-run-gulp) I created.
+
+If there's any issues or bugs related to this repo, please. open an issue and I'll take a look.
 
 Essential bootstrap files:
 * `index.html`
