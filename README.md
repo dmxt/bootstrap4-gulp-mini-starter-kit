@@ -1,6 +1,7 @@
 ### Compiled Bootstrap 4 Alpha
 
-Current version: Bootstrap v4.0.0-alpha.6
+Current version: `Bootstrap v4.0.0-alpha.6`
+
 Bootstrap v4 documentation: [click here](http://v4-alpha.getbootstrap.com/getting-started/introduction/)
 
 With prepared index and downloaded jquery file, you can start developing as soon as it is downloaded and extracted. All content is non-CDN, so there will be less file requests on site load. 
