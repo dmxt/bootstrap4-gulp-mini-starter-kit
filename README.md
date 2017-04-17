@@ -15,4 +15,3 @@ Essential bootstrap files:
 * `css/bootstrap.min.css`
 * `js/jquery-1.11.3.min.js`
 * `js/bootstrap.min.css`
-* `js/tender.min.js`
