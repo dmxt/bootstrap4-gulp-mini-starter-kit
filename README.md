@@ -1,4 +1,4 @@
-### Compiled Bootstrap 4 Alpha
+# Compiled Bootstrap 4 Alpha
 
 Current version: `Bootstrap v4.0.0-alpha.6`
 
