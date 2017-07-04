@@ -14,4 +14,4 @@ Essential bootstrap files:
 * `index.html`
 * `css/bootstrap.min.css`
 * `js/jquery-1.11.3.min.js`
-* `js/bootstrap.min.css`
+* `js/bootstrap.min.js`
