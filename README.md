@@ -13,5 +13,5 @@ If there's any issues or bugs related to this repo, please. open an issue and I'
 Essential bootstrap files:
 * `index.html`
 * `css/bootstrap.min.css`
-* `js/jquery-1.11.3.min.js`
 * `js/bootstrap.min.js`
+* `js/jquery-1.11.3.min.js`
